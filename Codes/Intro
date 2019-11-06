@@ -1,0 +1,3 @@
+In this project, I used different methods trying to accurately predict stock prices. The methods include Moving Average, Linear Regression,
+K-nn, Auto ARIMA, and LSTM. 
+LSTM is proved to be the most accurate method.
